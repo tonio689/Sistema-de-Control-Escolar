@@ -9,13 +9,19 @@
 Describir el problema o situación que motiva la decisión.
 
 ## 2. Decisión
-Explicar qué se ha decidido y por qué.
+Explicar qué se ha decidido.
 
 ## 3. Alternativas consideradas
 (Opcional) Enumera las opciones evaluadas.
 
+## 4. Justificación
+(Opcionale) El porqué de la decisión.
+
 ## 4. Consecuencias
 Describe los efectos positivos y negativos esperados.
 
-## 5. Referencias
-(Opcional) Enlaces o documentos de apoyo.
+## 5. Autor
+(Opcional) Ejm. Antonio Cartuche
+
+## 2. Revisión
+(Opcional) Ejm. Lissette López

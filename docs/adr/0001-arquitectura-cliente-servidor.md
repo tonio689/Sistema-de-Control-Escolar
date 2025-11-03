@@ -24,7 +24,7 @@ La arquitectura Cliente–Servidor ofrece simplicidad, escalabilidad básica y c
 - Servirá como base para decisiones futuras sobre tecnologías y despliegue.  
 
 ## Autor  
-José Antonio Cartuche Robalino
+Antonio Cartuche
 
 ## Revisión  
 Ing. Lissette López
