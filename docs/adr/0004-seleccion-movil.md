@@ -1,5 +1,5 @@
 
-# ADR-0005: Selección de Flutter para la Aplicación Móvil
+# ADR-0004: Selección de Flutter para la Aplicación Móvil
 
 **Fecha:** 03/11/2025  
 **Estado:** Propuesto  
@@ -13,9 +13,6 @@ Se adoptó Flutter como framework de desarrollo móvil.
 ## Alternativas consideradas  
 - **React Native:** descartado por menor rendimiento gráfico. 
 - **Kotlin/Swift:** descartados por no ser multiplataforma.  
-
-## Justificación  
-Flutter permite compilar en código nativo, ofrece una interfaz moderna y mantiene una única base de código para ambas plataformas, reduciendo tiempo y costos de desarrollo. 
 
 ## Consecuencias
 - Facilita la integración con las APIs REST del backend.

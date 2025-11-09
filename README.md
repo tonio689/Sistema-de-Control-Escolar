@@ -14,4 +14,4 @@ Aunque el desarrollo no forma parte del presente trabajo, las decisiones aquí d
 ## 🧩 Referencias
 - Michael Nygard. *Documenting Architecture Decisions* (2011).  
 - ISO/IEC 25010:2011 — *Software product quality model*.  
-- [https://github.com/npryce/adr-tools](https://github.com/npryce/adr-tools)
+- [https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-by-michael-nygard/index.md](Plantilla)

@@ -16,12 +16,9 @@ Se adopta la **arquitectura Cliente–Servidor**, donde:
 - **Monolítica:** descartada por su baja flexibilidad.  
 - **Microservicios:** excesiva para el alcance del proyecto.  
 
-## Justificación  
-La arquitectura Cliente–Servidor ofrece simplicidad, escalabilidad básica y compatibilidad con el modelo C4 utilizado en el diseño.  
-
 ## Consecuencias  
-- Se crearán contenedores separados para cliente y servidor en los diagramas C4.  
-- Servirá como base para decisiones futuras sobre tecnologías y despliegue.  
+- Esta separación promueve el desarrollo paralelo entre equipos.
+- Facilita la integración continua y mejora la seguridad al limitar la exposición directa de la base de datos. 
 
 ## Autor  
 Antonio Cartuche

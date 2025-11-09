@@ -14,9 +14,6 @@ Explicar qué se ha decidido.
 ## 3. Alternativas consideradas
 (Opcional) Enumera las opciones evaluadas.
 
-## 4. Justificación
-(Opcionale) El porqué de la decisión.
-
 ## 4. Consecuencias
 Describe los efectos positivos y negativos esperados.
 

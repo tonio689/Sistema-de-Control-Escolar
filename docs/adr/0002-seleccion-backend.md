@@ -1,5 +1,5 @@
 
-# ADR-0003: Selección de Django como framework Backend
+# ADR-0002: Selección de Django como framework Backend
 
 **Fecha:** 03/11/2025  
 **Estado:** Propuesto  
@@ -12,12 +12,11 @@ Se seleccionó Django como framework backend principal.
 
 ## Alternativas consideradas  
 - Flask: ligero, pero requiere mayor configuración y mantenimiento.  
-- Laravel: opción potente, pero no se ajusta al entorno Python utilizado en el proyecto. 
-
-## Justificación  
-Django ofrece un ORM integrado, autenticación incorporada, alta seguridad contra ataques web y una estructura escalable, lo que permite acelerar el desarrollo manteniendo buenas prácticas arquitectónicas.  
-
-## Consecuencias  
+- Laravel: opción potente, pero no se ajusta al entorno utilizado en el proyecto. 
+ 
+## Consecuencias 
+- Django ofrece un ORM integrado, autenticación incorporada, alta seguridad contra ataques web y una estructura escalable.
+- Facilita la integración continua y mejora la seguridad al limitar la exposición directa de la base de datos. 
 - Se facilitará la integración con PostgreSQL.  
 - Servirá como base para decisiones futuras sobre tecnologías y despliegue.  
 
