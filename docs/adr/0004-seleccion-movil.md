@@ -15,7 +15,7 @@ Se adoptó Flutter como framework de desarrollo móvil.
 - **Kotlin/Swift:** descartados por no ser multiplataforma, lo que duplicaría esfuerzos de desarrollo y mantenimiento para Android e iOS.
 
 ## Consecuencias
-- Flutter permite desarrollar una sola base de código para Android e iOS, asegurando capacidades multiplataforma y reduciendo significativamente el tiempo y el esfuerzo de desarrollo.
+-Permite desarrollar una sola base de código para Android e iOS, asegurando capacidades multiplataforma y reduciendo significativamente el tiempo y el esfuerzo de desarrollo.
 - Facilita la integración con las APIs REST del backend.
 - Permite mantener consistencia en el diseño visual con la versión web. 
 

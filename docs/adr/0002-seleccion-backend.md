@@ -12,7 +12,7 @@ Se seleccionó Django como framework backend principal.
 
 ## Alternativas consideradas  
 - Flask: ligero, pero requiere mayor configuración y mantenimiento.  
-- Laravel: opción potente, pero no se ajusta al entorno utilizado en el proyecto. 
+- Laravel: es un framework sólido, pero está basado en PHP, lo que no se ajusta al entorno del proyecto, que utiliza Python.
  
 ## Consecuencias 
 - Django ofrece un ORM integrado, autenticación incorporada, alta seguridad contra ataques web y una estructura escalable.
