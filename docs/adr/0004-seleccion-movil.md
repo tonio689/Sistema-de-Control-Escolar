@@ -5,16 +5,17 @@
 **Estado:** Propuesto  
 
 ## Contexto  
-El sistema requiere una aplicación móvil multiplataforma con alto rendimiento y consistencia visual en Android e iOS.
+El sistema requiere una aplicación móvil con alto rendimiento, tiempos de respuesta rápidos y una interfaz visual consistente en Android e iOS, evitando desarrollar dos aplicaciones nativas independientes.
 
 ## Decisión  
 Se adoptó Flutter como framework de desarrollo móvil. 
 
 ## Alternativas consideradas  
 - **React Native:** descartado por menor rendimiento gráfico. 
-- **Kotlin/Swift:** descartados por no ser multiplataforma.  
+- **Kotlin/Swift:** descartados por no ser multiplataforma, lo que duplicaría esfuerzos de desarrollo y mantenimiento para Android e iOS.
 
 ## Consecuencias
+- Flutter permite desarrollar una sola base de código para Android e iOS, asegurando capacidades multiplataforma y reduciendo significativamente el tiempo y el esfuerzo de desarrollo.
 - Facilita la integración con las APIs REST del backend.
 - Permite mantener consistencia en el diseño visual con la versión web. 
 
