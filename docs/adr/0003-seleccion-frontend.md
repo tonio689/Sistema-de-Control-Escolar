@@ -8,7 +8,7 @@
 La interfaz web requiere una biblioteca que permita desarrollar componentes reutilizables, dinámicos y fáciles de mantener.  
 
 ## Decisión  
-Se eligió React como biblioteca principal para el desarrollo de la aplicación web.
+Se eligió React como biblioteca principal para el desarrollo frontend de la aplicación web.
 
 ## Alternativas consideradas  
 - **Angular:** completo, pero más estructurado y con mayor complejidad inicial.
