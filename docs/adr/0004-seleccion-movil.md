@@ -1,5 +1,5 @@
 
-# ADR-0004: Selección de Flutter para la Aplicación Móvil
+# ADR-0004: Selección de Flutter para el desarrollo del frontend Móvil
 
 **Fecha:** 03/11/2025  
 **Estado:** Propuesto  
