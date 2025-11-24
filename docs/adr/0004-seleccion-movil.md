@@ -8,7 +8,7 @@
 El sistema requiere una aplicación móvil con alto rendimiento, tiempos de respuesta rápidos y una interfaz visual consistente en Android e iOS, evitando desarrollar dos aplicaciones nativas independientes.
 
 ## Decisión  
-Se adoptó Flutter como framework de desarrollo móvil. 
+Se adoptó Flutter como framework para el desarrollo del frontend móvil. 
 
 ## Alternativas consideradas  
 - **React Native:** descartado por menor rendimiento gráfico. 
