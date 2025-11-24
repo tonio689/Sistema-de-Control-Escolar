@@ -8,7 +8,7 @@
 El sistema necesita un framework robusto para gestionar la lógica de negocio, ofrecer seguridad y conectarse eficientemente con bases de datos relacionales.
 
 ## Decisión  
-Se seleccionó Django como framework backend principal.
+Se seleccionó Django como framework backend principal, por su madurez y adecuación a las necesidades del proyecto.
 
 ## Alternativas consideradas  
 - Flask: ligero, pero requiere mayor configuración y mantenimiento.  
