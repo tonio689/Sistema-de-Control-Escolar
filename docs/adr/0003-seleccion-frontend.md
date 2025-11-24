@@ -11,8 +11,8 @@ La interfaz web requiere una biblioteca que permita desarrollar componentes reut
 Se eligió React como biblioteca principal para el desarrollo de la aplicación web.
 
 ## Alternativas consideradas  
-- **Angular** y **Vue.js:** descartados debido a la limitada experiencia del equipo con este framework, lo cual incrementaría la curva de aprendizaje y los tiempos del proyecto.
-
+- **Angular:** completo, pero más estructurado y con mayor complejidad inicial.
+- **Vue.js:** flexible y sencillo, pero con menor adopción en entornos empresariales.
 ## Consecuencias  
 - React facilita la creación de interfaces reactivas, su ecosistema es ampliamente utilizado y su integración con Django REST Framework es sencilla.
 - Se generarán componentes modulares que faciliten futuras ampliaciones.  
