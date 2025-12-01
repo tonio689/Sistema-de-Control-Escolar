@@ -17,8 +17,8 @@ Se seleccionó Django como framework backend principal, por su madurez y adecuac
 ## Consecuencias 
 - Django ofrece un ORM integrado, autenticación incorporada, alta seguridad contra ataques web y una estructura escalable.
 - Django tiene un Admin Panel autogenerado y completamente funcional
-- Facilita la integración continua y mejora la seguridad al limitar la exposición directa de la base de datos. 
-- Se facilitará la integración con PostgreSQL.  
+- Facilitará la integración continua y mejora la seguridad al limitar la exposición directa de la base de datos. 
+- Se facilitará la integración con bases de de datos relacionales.  
 - Servirá como base para decisiones futuras sobre tecnologías y despliegue.  
 
 ## Autor  
