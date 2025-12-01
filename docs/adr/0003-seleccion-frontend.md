@@ -14,7 +14,7 @@ Se eligió React como biblioteca principal para el desarrollo frontend de la apl
 - **Angular:** completo, pero más estructurado y con mayor complejidad inicial.
 - **Vue.js:** flexible y sencillo, pero con menor adopción en entornos empresariales.
 ## Consecuencias  
-- React facilita la creación de interfaces reactivas, su ecosistema es ampliamente utilizado y su integración con Django REST Framework es sencilla.
+- React facilita la creación de interfaces reactivas, su ecosistema es ampliamente utilizado y su integración con APIs REST es sencilla.
 - Se generarán componentes modulares que faciliten futuras ampliaciones.  
 - Permite un mantenimiento más ágil del frontend. 
 
